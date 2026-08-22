@@ -1,0 +1,9 @@
+{
+  "description": "Example result structure; not an actual test run.",
+  "run_id": "sample_001",
+  "model": "mock-model",
+  "evaluator_model": "mock-model",
+  "responses": [],
+  "evaluations": [],
+  "summary": {}
+}
